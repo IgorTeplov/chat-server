@@ -1,0 +1,7 @@
+Base:
+python 3.6^
+-socket
+-threading
+
+Custom:
+-pickle
